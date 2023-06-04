@@ -1,0 +1,96 @@
+/* selectores */
+
+#selectorId {
+    color: blueviolet;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.selectorClase {
+    color: #e11d48;
+    font-size: 2rem;
+    font-weight: 800;
+}
+.selectorClaseP {
+    color: #dfdfdf;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.selectorClase2 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.selectorClase3 {
+    color: #100764;
+    font-size: 2rem;
+    font-weight: 900;
+
+}
+
+/* Etiquetas */
+
+h1 {
+    color: aqua;
+}
+h4 {
+    color: chocolate;
+}
+
+/* Conbinador descendiente */
+
+
+.caja-chica {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #1a163f;
+    margin-bottom: 20px;
+
+}
+
+.caja-media {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #c5547f;
+    margin-bottom: 20px;
+    font-size: 10px;
+
+}
+.caja-grande {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #71b067;
+    margin-bottom: 20px;
+
+}
+
+/* medidas relativas */
+
+.em {
+    font-size: 2em;
+
+}
+
+.porcentaje {
+    width: 50%;
+    height: 50%;
+    background-color: #e30f0f;
+}
+
+.vh {
+    height: 10vh;
+    background-color: cadetblue;
+
+}
+
+.vw {
+    height: 10vw;
+    background-color: cadetblue;
+}
+
